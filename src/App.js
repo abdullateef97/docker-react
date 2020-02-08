@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Marlians come forward, the rest fuck offf, IYE iye iye
         </a>
       </header>
     </div>
